@@ -42,14 +42,13 @@
     "mocha": "^11.7.2",
     "nyc": "^17.1.0",
     "objstorage": "^1.0.0",
-    "pre-commit": "github:metcalfc/pre-commit#b36c649fd5348d7604a86b7b2f3429c780d1478f",
     "require-poisoning": "^2.0.0",
     "webpack": "5.x",
     "webpack-bundle-size-analyzer": "^3.0.0",
     "webpack-cli": "6.x"
   },
   "dependencies": {
-    "@so-ric/colorspace": "^1.1.6",
+    "@so-ric/colorspace": "git@github.com:Chargepoly/colorspace.git",
     "enabled": "2.0.x",
     "kuler": "^2.0.0"
   },
