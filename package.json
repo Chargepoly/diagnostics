@@ -48,7 +48,7 @@
     "webpack-cli": "6.x"
   },
   "dependencies": {
-    "@so-ric/colorspace": "github:Chargepoly/colorspace@master",
+    "@so-ric/colorspace": "github:Chargepoly/colorspace#master",
     "enabled": "2.0.x",
     "kuler": "^2.0.0"
   },
